@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "400030721930",
+    "project_id": "kebabhub3",
+    "storage_bucket": "kebabhub3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:400030721930:android:b4059d01f178692be14a73",
+        "android_client_info": {
+          "package_name": "com.shark.kebabhub3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "400030721930-maqgq3aqhu5fib7ltddnqk542macumdc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfxf25H2WpIQUdCTpRFUw_uzJzs44Hk6E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "400030721930-maqgq3aqhu5fib7ltddnqk542macumdc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
