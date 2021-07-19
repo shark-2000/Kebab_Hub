@@ -1,6 +1,6 @@
 
 # Kebab(OnePlus_8T) hub
-<img src = "assets/icon.png"  width= "250">
+<img src = "assets/icon.png"  width= "200">
 
 An app which helps kebab users to test various custom ROMs.
 by the community for the community
