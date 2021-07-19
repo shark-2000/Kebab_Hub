@@ -13,7 +13,7 @@ by the community for the community.
 
 ## Features
 
-1. The app uses onesignal api for app notificatios from which i notify the users about the updates of ROMs as soon as they arrive.
+1. The app uses onesignal api for app notifications from which i notify the users about the updates of ROMs as soon as they arrive.
 2. It contains instrutions,download links of custom ROMs which are actively supported by the developers.
 3. It also includes unbrick tool which helps in restoring the device to Oxygen Os from AOSP ROMs.
 4. The App includes link to google camera community in telegram.
