@@ -1,11 +1,12 @@
 
-# Kebab(OnePlus_8T) hub
-<img src = "assets/icon.png"  width= "300">
+
+<img src = "assets/icon.png"  width= "200">
 
  
-
+# Kebab(OnePlus_8T) hub
 An app which helps kebab users to test various custom ROMs.
-by the community for the community.
+
+*By the community for the community.*
 ## Screenshots
 ![Welcome Screen](https://telegra.ph//file/287e5d95d70952c8d4fb4.jpg)|![HomeScreen](https://telegra.ph//file/c2d5e09bcb5fc2be7600e.jpg)
 ---------------------------------------------------------------------|-----------------------------------------------------------------
