@@ -18,7 +18,7 @@ by the community for the community.
 3. It also includes unbrick tool which helps in restoring the device to Oxygen Os from AOSP ROMs.
 4. The App includes link to google camera community in telegram.
 ## Links
-[**Playstore**](https://play.google.com/store/apps/details?id=com.shark.KebabHub)|[**Webapp**](https://kebabhubweb.firebase.com)
+[**Playstore**](https://play.google.com/store/apps/details?id=com.shark.KebabHub)|[**Webapp**](https://kebabhubweb.web.app)
 ---------------------------------------------------------------------------------|----------------------------------------------
 
 
